@@ -1,3 +1,9 @@
+body {
+  font-family: 'Alexandria', sans-serif;
+  
+}
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +41,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/Fonts/Alexandria-Bold.ttf");
+  font-weight: 800;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/Fonts/Alexandria-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/Fonts/Alexandria-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/Fonts/Alexandria-Black.ttf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/Fonts/Alexandria-Light.ttf");
+  font-weight: 200;
 }
