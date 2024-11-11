@@ -11,7 +11,7 @@ Todo-app  Allows users to create, manage, and track their tasks efficiently. It 
 Install my-project with npm
 
 ```bash
-  cd my-project-name
+  cd project-folder
   npm install 
   npm start
 ```
